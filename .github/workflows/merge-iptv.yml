@@ -2,8 +2,8 @@ name: merge-iptv-rules
 
 on:
   schedule:
-    # Every 6 hours. GitHub may delay scheduled runs; Run workflow starts one immediately.
-    - cron: "17 */6 * * *"
+    # 18:00 UTC = 02:00 Asia/Shanghai. GitHub may start the run later than the exact minute.
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
