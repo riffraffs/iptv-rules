@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/riffraffs/iptv-rules/main/iptv_merged.yaml
 
 ## 来源
 
-规则来自这两个仓库，去重后合并：
+规则来自这两个仓库，分别为G佬和C佬的分流规则，去重后合并：
 
 - [marcuccilli/gary](https://github.com/marcuccilli/gary) 的 [`iptv_clash.yaml`](https://github.com/marcuccilli/gary/blob/main/iptv_clash.yaml)
 - [marcuccilli/Cathy](https://github.com/marcuccilli/Cathy) 的 [`cathy_clash.yaml`](https://github.com/marcuccilli/Cathy/blob/main/cathy_clash.yaml)
