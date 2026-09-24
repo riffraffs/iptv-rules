@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Pull upstream Clash rule lists, dedupe, domains first, IP rules last."""
+"""Pull upstream Clash rule lists, dedupe, domains first, IP rules last.
+
+Writes Clash classical YAML and the shared Surge/Loon/Shadowrocket list.
+"""
 import sys
 import urllib.request
 
@@ -7,7 +10,8 @@ SOURCES = [
     "https://raw.githubusercontent.com/marcuccilli/gary/main/iptv_clash.yaml",
     "https://raw.githubusercontent.com/marcuccilli/Cathy/main/cathy_clash.yaml",
 ]
-OUT = "iptv_merged.yaml"
+OUT_CLASH = "iptv_merged.yaml"
+OUT_LIST = "iptv_merged.list"
 IP_TYPES = {"IP-CIDR", "IP-CIDR6", "IP-ASN", "SRC-IP-CIDR"}
 
 
@@ -46,13 +50,22 @@ def main() -> None:
             (ips if kind in IP_TYPES else domains).append(item)
     domains.sort(key=str.lower)
     ips.sort(key=str.lower)
-    body = ["payload:"]
-    body += [f"  - {item}" for item in domains]
-    body += [f"  - {item}" for item in ips]
-    body.append("")
-    with open(OUT, "w", encoding="utf-8", newline="\n") as f:
-        f.write("\n".join(body))
-    print(f"wrote {OUT}: {len(domains)} domain, {len(ips)} ip")
+    ordered = domains + ips
+
+    clash = ["payload:"]
+    clash += [f"  - {item}" for item in ordered]
+    clash.append("")
+    # Surge, Loon, and Shadowrocket RULE-SET files share this line format.
+    listing = ordered + [""]
+
+    write(OUT_CLASH, "\n".join(clash))
+    write(OUT_LIST, "\n".join(listing))
+    print(f"wrote {OUT_CLASH}, {OUT_LIST}: {len(domains)} domain, {len(ips)} ip")
+
+
+def write(path: str, text: str) -> None:
+    with open(path, "w", encoding="utf-8", newline="\n") as f:
+        f.write(text)
 
 
 if __name__ == "__main__":
