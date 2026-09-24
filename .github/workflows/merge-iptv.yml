@@ -2,8 +2,9 @@ name: merge-iptv-rules
 
 on:
   schedule:
-    # 18:00 UTC = 02:00 Asia/Shanghai. GitHub may start the run later than the exact minute.
-    - cron: "0 18 * * *"
+    # 01:00 UTC = 09:00 Asia/Shanghai, after the upstream repos update around 08:20–08:45.
+    # GitHub may start the run later than the exact minute.
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 permissions:
