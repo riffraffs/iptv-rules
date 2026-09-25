@@ -153,6 +153,7 @@ payload:
   - DOMAIN-SUFFIX,bbb-billi-xumo.otteravision.com
   - DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
   - DOMAIN-SUFFIX,beam-images.warnermediacdn.com
+  - DOMAIN-SUFFIX,bgdc.live
   - DOMAIN-SUFFIX,blogger.googleusercontent.com
   - DOMAIN-SUFFIX,c.mjh.nz
   - DOMAIN-SUFFIX,canvas-lb.tubitv.com
@@ -408,6 +409,7 @@ payload:
   - DOMAIN-SUFFIX,rally-tv-live.akamaized.net
   - DOMAIN-SUFFIX,rch01e-alive-hls.akamaized.net
   - DOMAIN-SUFFIX,rightsboosterltd-scl-1-us.xumo.wurl.tv
+  - DOMAIN-SUFFIX,royallivetv.club
   - DOMAIN-SUFFIX,rt-glb.rttv.com
   - DOMAIN-SUFFIX,rthktv31-live.akamaized.net
   - DOMAIN-SUFFIX,rthktv32-live.akamaized.net
@@ -628,6 +630,7 @@ payload:
   - IP-CIDR,184.34.81.0/24
   - IP-CIDR,192.109.138.0/24
   - IP-CIDR,192.142.25.0/24
+  - IP-CIDR,192.142.27.0/24
   - IP-CIDR,192.142.57.0/24
   - IP-CIDR,192.151.152.0/24
   - IP-CIDR,192.166.82.0/24
@@ -672,6 +675,7 @@ payload:
   - IP-CIDR,222.85.198.0/24
   - IP-CIDR,222.89.29.0/24
   - IP-CIDR,23.1.255.0/24
+  - IP-CIDR,23.14.140.0/24
   - IP-CIDR,23.14.92.0/24
   - IP-CIDR,23.194.127.0/24
   - IP-CIDR,23.200.156.0/24
@@ -682,6 +686,7 @@ payload:
   - IP-CIDR,23.213.53.0/24
   - IP-CIDR,23.214.22.0/24
   - IP-CIDR,23.216.5.0/24
+  - IP-CIDR,23.220.97.0/24
   - IP-CIDR,23.222.3.0/24
   - IP-CIDR,23.237.104.0/24
   - IP-CIDR,23.239.31.0/24
@@ -689,12 +694,15 @@ payload:
   - IP-CIDR,23.33.22.0/24
   - IP-CIDR,23.33.29.0/24
   - IP-CIDR,23.38.160.0/24
+  - IP-CIDR,23.39.148.0/24
   - IP-CIDR,23.39.51.0/24
   - IP-CIDR,23.46.23.0/24
   - IP-CIDR,23.46.30.0/24
+  - IP-CIDR,23.47.48.0/24
   - IP-CIDR,23.47.52.0/24
   - IP-CIDR,23.52.42.0/24
   - IP-CIDR,23.54.40.0/24
+  - IP-CIDR,23.55.178.0/24
   - IP-CIDR,23.55.236.0/24
   - IP-CIDR,23.62.226.0/24
   - IP-CIDR,3.161.213.0/24
@@ -733,6 +741,7 @@ payload:
   - IP-CIDR,45.155.226.0/24
   - IP-CIDR,47.97.252.0/24
   - IP-CIDR,5.182.228.0/24
+  - IP-CIDR,51.158.145.0/24
   - IP-CIDR,52.1.210.0/24
   - IP-CIDR,52.222.157.0/24
   - IP-CIDR,52.222.205.0/24
