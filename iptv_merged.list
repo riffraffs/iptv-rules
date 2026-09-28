@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,5393127.calovrix.cc
 DOMAIN-SUFFIX,5393127.jexovryn.cc
 DOMAIN-SUFFIX,5393127.klyovrix.cc
 DOMAIN-SUFFIX,5393127.maviryon.cc
+DOMAIN-SUFFIX,5393127.merovixx.cc
 DOMAIN-SUFFIX,5393127.netovrix.cc
 DOMAIN-SUFFIX,5393127.norvixal.cc
 DOMAIN-SUFFIX,5393127.orvixion.cc
@@ -28,6 +29,7 @@ DOMAIN-SUFFIX,5393127.terovixa.cc
 DOMAIN-SUFFIX,5393127.velovrix.cc
 DOMAIN-SUFFIX,5393127.vexovrix.cc
 DOMAIN-SUFFIX,5393127.xelovrix.cc
+DOMAIN-SUFFIX,5393127.xqivorna.cc
 DOMAIN-SUFFIX,75943f25.wurl.com
 DOMAIN-SUFFIX,8.fast.hidns.vip
 DOMAIN-SUFFIX,89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com
@@ -85,6 +87,9 @@ DOMAIN-SUFFIX,amg01076-lightningintern-newsworld-rakutenjp-kb4wx.amagi.tv
 DOMAIN-SUFFIX,amg01131-tracetv-amg01131c5-rlaxx-us-6616.playouts.now.amagi.tv
 DOMAIN-SUFFIX,amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv
 DOMAIN-SUFFIX,amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv
+DOMAIN-SUFFIX,amg01269-amg01269c4-amgplt0055.playout.now3.amagi.tv
+DOMAIN-SUFFIX,amg01269-amg01269c5-amgplt0055.playout.now3.amagi.tv
+DOMAIN-SUFFIX,amg01269-amg01269c6-amgplt0055.playout.now3.amagi.tv
 DOMAIN-SUFFIX,amg01287-rakutentvjapan-anime5-cmaf-rakutenjp-x4dre.amagi.tv
 DOMAIN-SUFFIX,amg01287-rakutentvjapan-enka-cmaf-rakutenjp-4nxg8.amagi.tv
 DOMAIN-SUFFIX,amg01287-rakutentvjapan-fishinghlscmaf-rakutenjp-ad-ct.amagi.tv
@@ -386,6 +391,7 @@ DOMAIN-SUFFIX,pb-iiczlgfysam0q.akamaized.net
 DOMAIN-SUFFIX,pb-k71qdbyvm4gcs.akamaized.net
 DOMAIN-SUFFIX,pb-k9ze87giq7fqf.akamaized.net
 DOMAIN-SUFFIX,pb-pskpwdav4v1e3.akamaized.net
+DOMAIN-SUFFIX,pb-qkurwwnhowqg3.akamaized.net
 DOMAIN-SUFFIX,pb-qyrvophnifz47.akamaized.net
 DOMAIN-SUFFIX,pb-rlo4if9lnjthw.akamaized.net
 DOMAIN-SUFFIX,pb-tc97nokxg85ph.akamaized.net
@@ -686,6 +692,7 @@ IP-CIDR,23.212.185.0/24
 IP-CIDR,23.213.53.0/24
 IP-CIDR,23.214.22.0/24
 IP-CIDR,23.216.5.0/24
+IP-CIDR,23.220.246.0/24
 IP-CIDR,23.220.97.0/24
 IP-CIDR,23.222.3.0/24
 IP-CIDR,23.237.104.0/24
@@ -698,13 +705,11 @@ IP-CIDR,23.39.51.0/24
 IP-CIDR,23.46.23.0/24
 IP-CIDR,23.46.30.0/24
 IP-CIDR,23.47.52.0/24
-IP-CIDR,23.48.99.0/24
 IP-CIDR,23.52.42.0/24
 IP-CIDR,23.54.40.0/24
 IP-CIDR,23.55.178.0/24
 IP-CIDR,23.55.236.0/24
 IP-CIDR,23.62.226.0/24
-IP-CIDR,23.64.112.0/24
 IP-CIDR,23.66.127.0/24
 IP-CIDR,3.161.213.0/24
 IP-CIDR,3.161.242.0/24
