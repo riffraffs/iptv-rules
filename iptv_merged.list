@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,168.sryze.cc
 DOMAIN-SUFFIX,18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,1d7f286dfb844497ac68dd9d6eeb6ea6.mediatailor.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,2.fast.hidns.vip
-DOMAIN-SUFFIX,2311797.vyrovixa.cc
+DOMAIN-SUFFIX,2311797.vexovrix.cc
 DOMAIN-SUFFIX,2978611.3230546409.celadonfsda3.space
 DOMAIN-SUFFIX,2978611.3230546409.chartreuse2.space
 DOMAIN-SUFFIX,3092716.3230546409.celadonfsda3.space
@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,5393127.terovixa.cc
 DOMAIN-SUFFIX,5393127.velovrix.cc
 DOMAIN-SUFFIX,5393127.vexovrix.cc
 DOMAIN-SUFFIX,5393127.xelovrix.cc
-DOMAIN-SUFFIX,5393127.xqivorna.cc
 DOMAIN-SUFFIX,75943f25.wurl.com
 DOMAIN-SUFFIX,8.fast.hidns.vip
 DOMAIN-SUFFIX,89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com
@@ -154,6 +153,7 @@ DOMAIN-SUFFIX,app.do
 DOMAIN-SUFFIX,as01.plinkspile.cc
 DOMAIN-SUFFIX,assets.golfchannel.com
 DOMAIN-SUFFIX,atlanticflixtv.online
+DOMAIN-SUFFIX,b1gchlogos.xyz
 DOMAIN-SUFFIX,bbb-billi-xumo.otteravision.com
 DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
 DOMAIN-SUFFIX,beam-images.warnermediacdn.com
@@ -312,6 +312,7 @@ DOMAIN-SUFFIX,i.postimg.cc
 DOMAIN-SUFFIX,image-resizer-cloud-cdn.api.cms.amdvids.com
 DOMAIN-SUFFIX,image.p-c2-x.abema-tv.com
 DOMAIN-SUFFIX,image.xumo.com
+DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,images.contentstack.io
 DOMAIN-SUFFIX,images.foxtv.com
 DOMAIN-SUFFIX,images.indihometv.com
@@ -364,6 +365,7 @@ DOMAIN-SUFFIX,news.now.com
 DOMAIN-SUFFIX,news20e7hhcb.airspace-cdn.cbsivideo.com
 DOMAIN-SUFFIX,nhk4.mov3.co
 DOMAIN-SUFFIX,nmx1ota.akamaized.net
+DOMAIN-SUFFIX,nordiciptv.co
 DOMAIN-SUFFIX,nowplayer.now.com
 DOMAIN-SUFFIX,ntdofifreepc-tgc.cdn.hinet.net
 DOMAIN-SUFFIX,ntv5.mov3.co
@@ -410,10 +412,13 @@ DOMAIN-SUFFIX,prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com
 DOMAIN-SUFFIX,prod-s.cdn-cf.philo.com
 DOMAIN-SUFFIX,provider-static.plex.tv
 DOMAIN-SUFFIX,prtimes.jp
+DOMAIN-SUFFIX,ptvs.live
 DOMAIN-SUFFIX,qitv.fengshows.cn
+DOMAIN-SUFFIX,r2.thesportsdb.com
 DOMAIN-SUFFIX,rally-tv-live.akamaized.net
 DOMAIN-SUFFIX,rch01e-alive-hls.akamaized.net
 DOMAIN-SUFFIX,rightsboosterltd-scl-1-us.xumo.wurl.tv
+DOMAIN-SUFFIX,ro00t.cbilant.com
 DOMAIN-SUFFIX,royallivetv.club
 DOMAIN-SUFFIX,rt-glb.rttv.com
 DOMAIN-SUFFIX,rthktv31-live.akamaized.net
@@ -522,6 +527,7 @@ IP-CIDR,107.148.225.0/24
 IP-CIDR,107.150.35.0/24
 IP-CIDR,107.150.42.0/24
 IP-CIDR,107.150.52.0/24
+IP-CIDR,107.150.55.0/24
 IP-CIDR,108.138.167.0/24
 IP-CIDR,108.156.107.0/24
 IP-CIDR,108.156.224.0/24
@@ -564,6 +570,7 @@ IP-CIDR,138.199.2.0/24
 IP-CIDR,138.81.35.0/24
 IP-CIDR,142.54.162.0/24
 IP-CIDR,142.54.168.0/24
+IP-CIDR,142.54.178.0/24
 IP-CIDR,142.54.179.0/24
 IP-CIDR,143.204.204.0/24
 IP-CIDR,143.244.60.0/24
@@ -635,6 +642,7 @@ IP-CIDR,18.65.3.0/24
 IP-CIDR,181.233.125.0/24
 IP-CIDR,181.233.127.0/24
 IP-CIDR,184.34.81.0/24
+IP-CIDR,185.114.146.0/24
 IP-CIDR,192.109.138.0/24
 IP-CIDR,192.142.25.0/24
 IP-CIDR,192.142.27.0/24
@@ -667,6 +675,7 @@ IP-CIDR,202.232.224.0/24
 IP-CIDR,203.66.32.0/24
 IP-CIDR,203.66.34.0/24
 IP-CIDR,203.66.35.0/24
+IP-CIDR,204.12.221.0/24
 IP-CIDR,204.12.230.0/24
 IP-CIDR,204.12.234.0/24
 IP-CIDR,204.12.241.0/24
@@ -705,12 +714,15 @@ IP-CIDR,23.39.51.0/24
 IP-CIDR,23.46.23.0/24
 IP-CIDR,23.46.30.0/24
 IP-CIDR,23.47.52.0/24
+IP-CIDR,23.48.99.0/24
 IP-CIDR,23.52.42.0/24
 IP-CIDR,23.54.40.0/24
 IP-CIDR,23.55.178.0/24
 IP-CIDR,23.55.236.0/24
 IP-CIDR,23.62.226.0/24
+IP-CIDR,23.64.112.0/24
 IP-CIDR,23.66.127.0/24
+IP-CIDR,3.161.154.0/24
 IP-CIDR,3.161.213.0/24
 IP-CIDR,3.161.242.0/24
 IP-CIDR,3.162.163.0/24
@@ -748,6 +760,7 @@ IP-CIDR,47.97.252.0/24
 IP-CIDR,5.182.228.0/24
 IP-CIDR,50.7.144.0/24
 IP-CIDR,50.7.236.0/24
+IP-CIDR,50.7.240.0/24
 IP-CIDR,51.158.145.0/24
 IP-CIDR,52.1.210.0/24
 IP-CIDR,52.222.157.0/24
