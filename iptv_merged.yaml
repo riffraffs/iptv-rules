@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,1d7f286dfb844497ac68dd9d6eeb6ea6.mediatailor.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,2.fast.hidns.vip
+  - DOMAIN-SUFFIX,2311797.nodivorn.cc
   - DOMAIN-SUFFIX,2978611.3230546409.celadonfsda3.space
   - DOMAIN-SUFFIX,2978611.3230546409.chartreuse2.space
   - DOMAIN-SUFFIX,3092716.3230546409.celadonfsda3.space
@@ -394,6 +395,7 @@ payload:
   - DOMAIN-SUFFIX,pb-iiczlgfysam0q.akamaized.net
   - DOMAIN-SUFFIX,pb-k71qdbyvm4gcs.akamaized.net
   - DOMAIN-SUFFIX,pb-k9ze87giq7fqf.akamaized.net
+  - DOMAIN-SUFFIX,pb-mjr9205rtv7fy.akamaized.net
   - DOMAIN-SUFFIX,pb-pskpwdav4v1e3.akamaized.net
   - DOMAIN-SUFFIX,pb-qkurwwnhowqg3.akamaized.net
   - DOMAIN-SUFFIX,pb-qyrvophnifz47.akamaized.net
@@ -431,6 +433,7 @@ payload:
   - DOMAIN-SUFFIX,s11host2.localnow.api.cms.amdvids.com
   - DOMAIN-SUFFIX,s12.gifyu.com
   - DOMAIN-SUFFIX,s2host5.localnow.api.cms.amdvids.com
+  - DOMAIN-SUFFIX,s7aabb12.org
   - DOMAIN-SUFFIX,s8host3.localnow.api.cms.amdvids.com
   - DOMAIN-SUFFIX,s9.gifyu.com
   - DOMAIN-SUFFIX,samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv
@@ -584,6 +587,7 @@ payload:
   - IP-CIDR,151.101.128.0/24
   - IP-CIDR,151.101.192.0/24
   - IP-CIDR,151.101.64.0/24
+  - IP-CIDR,154.6.60.0/24
   - IP-CIDR,16.144.168.0/24
   - IP-CIDR,161.129.60.0/24
   - IP-CIDR,168.95.245.0/24
@@ -613,6 +617,7 @@ payload:
   - IP-CIDR,173.208.214.0/24
   - IP-CIDR,173.208.234.0/24
   - IP-CIDR,173.208.251.0/24
+  - IP-CIDR,173.223.108.0/24
   - IP-CIDR,18.154.109.0/24
   - IP-CIDR,18.154.110.0/24
   - IP-CIDR,18.154.132.0/24
@@ -696,14 +701,17 @@ payload:
   - IP-CIDR,23.194.127.0/24
   - IP-CIDR,23.196.4.0/24
   - IP-CIDR,23.200.156.0/24
+  - IP-CIDR,23.205.109.0/24
   - IP-CIDR,23.209.94.0/24
   - IP-CIDR,23.210.244.0/24
   - IP-CIDR,23.211.176.0/24
+  - IP-CIDR,23.211.255.0/24
   - IP-CIDR,23.212.185.0/24
   - IP-CIDR,23.212.6.0/24
   - IP-CIDR,23.213.53.0/24
   - IP-CIDR,23.214.22.0/24
   - IP-CIDR,23.216.5.0/24
+  - IP-CIDR,23.220.162.0/24
   - IP-CIDR,23.220.246.0/24
   - IP-CIDR,23.220.97.0/24
   - IP-CIDR,23.222.3.0/24
@@ -717,6 +725,8 @@ payload:
   - IP-CIDR,23.39.51.0/24
   - IP-CIDR,23.46.23.0/24
   - IP-CIDR,23.46.30.0/24
+  - IP-CIDR,23.47.48.0/24
+  - IP-CIDR,23.47.50.0/24
   - IP-CIDR,23.47.52.0/24
   - IP-CIDR,23.48.99.0/24
   - IP-CIDR,23.52.42.0/24
