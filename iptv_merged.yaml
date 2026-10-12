@@ -505,6 +505,7 @@ payload:
   - DOMAIN-SUFFIX,tcl-channel-cdn.ideonow.com
   - DOMAIN-SUFFIX,tgbot-sub.sharewithyou.dpdns.org
   - DOMAIN-SUFFIX,theacc.com
+  - DOMAIN-SUFFIX,thumb.wikimedia.org
   - DOMAIN-SUFFIX,tlgrm.re
   - DOMAIN-SUFFIX,tpshen.com
   - DOMAIN-SUFFIX,trams.koyeb.app
@@ -717,6 +718,7 @@ payload:
   - IP-CIDR,18.65.25.0/24
   - IP-CIDR,18.65.3.0/24
   - IP-CIDR,181.233.127.0/24
+  - IP-CIDR,184.28.78.0/24
   - IP-CIDR,184.28.81.0/24
   - IP-CIDR,184.29.30.0/24
   - IP-CIDR,184.30.148.0/24
@@ -735,6 +737,7 @@ payload:
   - IP-CIDR,192.3.110.0/24
   - IP-CIDR,192.53.122.0/24
   - IP-CIDR,194.59.155.0/24
+  - IP-CIDR,194.59.59.0/24
   - IP-CIDR,194.76.0.0/24
   - IP-CIDR,195.128.25.0/24
   - IP-CIDR,195.128.27.0/24
@@ -766,6 +769,7 @@ payload:
   - IP-CIDR,207.121.116.0/24
   - IP-CIDR,207.56.13.0/24
   - IP-CIDR,208.110.86.0/24
+  - IP-CIDR,208.80.248.0/24
   - IP-CIDR,213.109.154.0/24
   - IP-CIDR,213.183.47.0/24
   - IP-CIDR,217.20.50.0/24
@@ -902,6 +906,7 @@ payload:
   - IP-CIDR,65.9.126.0/24
   - IP-CIDR,65.9.148.0/24
   - IP-CIDR,66.96.147.0/24
+  - IP-CIDR,67.215.237.0/24
   - IP-CIDR,69.197.146.0/24
   - IP-CIDR,69.197.149.0/24
   - IP-CIDR,69.197.181.0/24
