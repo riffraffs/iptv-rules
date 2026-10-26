@@ -83,7 +83,9 @@ DOMAIN-SUFFIX,atlanticflixtv.online
 DOMAIN-SUFFIX,bbb-billi-xumo.otteravision.com
 DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
 DOMAIN-SUFFIX,bgdc.live
+DOMAIN-SUFFIX,bp-live4kkeyyc.bestv.cn
 DOMAIN-SUFFIX,c.mjh.nz
+DOMAIN-SUFFIX,cdi.ofiii.com
 DOMAIN-SUFFIX,cdn.prod.funke.video
 DOMAIN-SUFFIX,cdn.qd.je
 DOMAIN-SUFFIX,cdn11.163189.xyz
@@ -216,6 +218,8 @@ DOMAIN-SUFFIX,nba.3691065.site
 DOMAIN-SUFFIX,netanyahu.indianservers.st
 DOMAIN-SUFFIX,news20e7hhcb.airspace-cdn.cbsivideo.com
 DOMAIN-SUFFIX,nmx1ota.akamaized.net
+DOMAIN-SUFFIX,ntdofifreepc-tgc.cdn.hinet.net
+DOMAIN-SUFFIX,ofissaifreepc.akamaized.net
 DOMAIN-SUFFIX,p16-common-sign.tiktokcdn-us.com
 DOMAIN-SUFFIX,p16-common-sign.tiktokcdn.com
 DOMAIN-SUFFIX,p19-common-sign.tiktokcdn-us.com
@@ -251,6 +255,8 @@ DOMAIN-SUFFIX,pb-wmei1j77c66s0.akamaized.net
 DOMAIN-SUFFIX,pb-xp0ozx9lyqeiv.akamaized.net
 DOMAIN-SUFFIX,pb-zjy36qhp8e8cz.akamaized.net
 DOMAIN-SUFFIX,php.jdshipin.com
+DOMAIN-SUFFIX,play-sh13.quklive
+DOMAIN-SUFFIX,play-sh13.quklive.com
 DOMAIN-SUFFIX,poolc6cg1ead.airspace-cdn.cbsivideo.com
 DOMAIN-SUFFIX,ppv.1688848.xyz
 DOMAIN-SUFFIX,public.accessibility.describes
@@ -277,12 +283,14 @@ DOMAIN-SUFFIX,sk.delivery.roku.com
 DOMAIN-SUFFIX,slh.kop.homes
 DOMAIN-SUFFIX,smt.1678520.xyz
 DOMAIN-SUFFIX,taifood-blog.asia
+DOMAIN-SUFFIX,tencent-stream.kksmg.com
 DOMAIN-SUFFIX,testpush.jumpdd.cn
 DOMAIN-SUFFIX,tgbot-sub.sharewithyou.dpdns.org
 DOMAIN-SUFFIX,tplv-tiktokx-origin.image
 DOMAIN-SUFFIX,tsb-mega.i9.ee
 DOMAIN-SUFFIX,turnerlive.akamaized.net
 DOMAIN-SUFFIX,turnerlive.warnermediacdn.com
+DOMAIN-SUFFIX,tv-cdn-tx.bestv.cn
 DOMAIN-SUFFIX,tv-trtworld.medya.trt.com.tr
 DOMAIN-SUFFIX,tvplus-cdn.www.funke.video
 DOMAIN-SUFFIX,twcprod-live.twc-tv.com
@@ -339,6 +347,7 @@ IP-CIDR,208.80.248.26/32
 IP-CIDR,213.183.40.147/32
 IP-CIDR,213.183.40.227/32
 IP-CIDR,213.183.47.66/32
+IP-CIDR,213.183.47.74/32
 IP-CIDR,213.183.47.82/32
 IP-CIDR,23.237.104.106/32
 IP-CIDR,23.239.31.26/32
@@ -347,6 +356,7 @@ IP-CIDR,42.118.166.114/32
 IP-CIDR,45.139.122.199/32
 IP-CIDR,46.249.110.160/32
 IP-CIDR,46.249.110.173/32
+IP-CIDR,46.249.110.174/32
 IP-CIDR,46.249.110.176/32
 IP-CIDR,46.249.110.242/32
 IP-CIDR,5.182.228.11/32
@@ -388,10 +398,12 @@ IP-CIDR,89.187.181.68/32
 IP-CIDR,89.187.183.106/32
 IP-CIDR,89.222.120.117/32
 IP-CIDR,92.119.88.156/32
+IP-CIDR,92.119.89.139/32
 IP-CIDR,92.119.89.235/32
 IP-CIDR,92.246.87.70/32
 IP-CIDR,93.189.56.50/32
 IP-CIDR,93.189.62.138/32
 IP-CIDR,93.189.62.162/32
+IP-CIDR,93.189.62.186/32
 IP-CIDR,93.189.62.42/32
 IP-CIDR,94.249.177.84/32
