@@ -84,7 +84,9 @@ payload:
   - DOMAIN-SUFFIX,bbb-billi-xumo.otteravision.com
   - DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
   - DOMAIN-SUFFIX,bgdc.live
+  - DOMAIN-SUFFIX,bharat.indianservers.st
   - DOMAIN-SUFFIX,bp-live4kkeyyc.bestv.cn
+  - DOMAIN-SUFFIX,bp-livewxtytx.bestv.cn
   - DOMAIN-SUFFIX,c.mjh.nz
   - DOMAIN-SUFFIX,cdi.ofiii.com
   - DOMAIN-SUFFIX,cdn.prod.funke.video
@@ -413,6 +415,7 @@ payload:
   - IP-CIDR,89.187.183.106/32
   - IP-CIDR,89.222.120.117/32
   - IP-CIDR,92.119.88.156/32
+  - IP-CIDR,92.119.88.203/32
   - IP-CIDR,92.119.89.139/32
   - IP-CIDR,92.119.89.235/32
   - IP-CIDR,92.246.87.70/32
