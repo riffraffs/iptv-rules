@@ -302,6 +302,7 @@ DOMAIN-SUFFIX,vishnu.indianservers.st
 DOMAIN-SUFFIX,volc-stream.kksmg.com
 DOMAIN-SUFFIX,vs-hls-push-ww-live.akamaized.net
 DOMAIN-SUFFIX,wurlgameshownetwork.global.transmit.live
+DOMAIN-SUFFIX,www.caonizuzong.cc.cd
 DOMAIN-SUFFIX,www.samsung.com
 DOMAIN-SUFFIX,xumo-drct-skynews-nc91a.fast.nbcuni.com
 DOMAIN-SUFFIX,xumo-xumoent-ch824-d4q5c.fast.nbcuni.com
@@ -311,6 +312,7 @@ DOMAIN-SUFFIX,xumo-xumoent-ch839-d5ey0.fast.nbcuni.com
 DOMAIN-SUFFIX,xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com
 DOMAIN-SUFFIX,xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com
 DOMAIN-SUFFIX,xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
+IP-CIDR,103.176.90.131/32
 IP-CIDR,103.209.129.94/32
 IP-CIDR,103.211.103.238/32
 IP-CIDR,103.255.250.187/32
@@ -383,10 +385,13 @@ IP-CIDR,50.7.238.2/32
 IP-CIDR,50.7.240.98/32
 IP-CIDR,77.72.19.10/32
 IP-CIDR,77.72.19.122/32
+IP-CIDR,77.72.19.139/32
 IP-CIDR,77.72.19.180/32
 IP-CIDR,77.72.19.242/32
 IP-CIDR,77.72.19.26/32
 IP-CIDR,77.72.19.34/32
+IP-CIDR,77.72.19.42/32
+IP-CIDR,77.72.22.172/32
 IP-CIDR,77.72.22.3/32
 IP-CIDR,77.72.23.226/32
 IP-CIDR,77.72.23.234/32
