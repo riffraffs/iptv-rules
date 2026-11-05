@@ -103,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,ch3.live
   - DOMAIN-SUFFIX,citynewsregional.akamaized.net
   - DOMAIN-SUFFIX,d11r33s5i066xh.cloudfront.net
+  - DOMAIN-SUFFIX,d12d7l9tv5dqq8.cloudfront.net
   - DOMAIN-SUFFIX,d198ro05q94rc4.cloudfront.net
   - DOMAIN-SUFFIX,d19t74em32v5mc.cloudfront.net
   - DOMAIN-SUFFIX,d1ak5jijks54h1.cloudfront.net
@@ -329,6 +330,7 @@ payload:
   - IP-CIDR,185.243.7.161/32
   - IP-CIDR,185.6.14.43/32
   - IP-CIDR,185.6.14.51/32
+  - IP-CIDR,185.6.14.67/32
   - IP-CIDR,192.109.138.240/32
   - IP-CIDR,192.142.24.102/32
   - IP-CIDR,192.142.25.48/32
@@ -380,6 +382,7 @@ payload:
   - IP-CIDR,5.182.228.115/32
   - IP-CIDR,5.182.228.203/32
   - IP-CIDR,5.182.228.211/32
+  - IP-CIDR,5.182.228.219/32
   - IP-CIDR,5.182.228.251/32
   - IP-CIDR,5.182.229.27/32
   - IP-CIDR,5.182.231.61/32
@@ -392,6 +395,7 @@ payload:
   - IP-CIDR,77.72.19.122/32
   - IP-CIDR,77.72.19.139/32
   - IP-CIDR,77.72.19.180/32
+  - IP-CIDR,77.72.19.187/32
   - IP-CIDR,77.72.19.218/32
   - IP-CIDR,77.72.19.226/32
   - IP-CIDR,77.72.19.242/32
