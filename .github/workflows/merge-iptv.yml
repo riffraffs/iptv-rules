@@ -2,9 +2,10 @@ name: merge-iptv-rules
 
 on:
   schedule:
-    # 01:00 UTC = 09:00 Asia/Shanghai, after the upstream repos update around 08:20–08:45.
+    # 02:00 UTC = 10:00 Asia/Shanghai. Upstreams update daily: gary ~00:46–01:10 UTC,
+    # Cathy ~01:27–01:54 UTC. 02:00 runs ~1h after the latest (Cathy) finishes.
     # GitHub may start the run later than the exact minute.
-    - cron: "0 1 * * *"
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:

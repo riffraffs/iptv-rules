@@ -43,4 +43,4 @@ https://raw.githubusercontent.com/riffraffs/iptv-rules/main/iptv_merged.list
 - [marcuccilli/gary](https://github.com/marcuccilli/gary) 的 [`iptv_clash.yaml`](https://github.com/marcuccilli/gary/blob/main/iptv_clash.yaml)
 - [marcuccilli/Cathy](https://github.com/marcuccilli/Cathy) 的 [`cathy_clash.yaml`](https://github.com/marcuccilli/Cathy/blob/main/cathy_clash.yaml)
 
-GitHub Actions 每天北京时间早上 9 点拉取这两个文件，重新排序并提交 `iptv_merged.yaml` 和 `iptv_merged.list`。上游仓库大约在北京时间 8:20–8:45 更新。
+GitHub Actions 每天北京时间早上 10 点拉取这两个文件，重新排序并提交 `iptv_merged.yaml` 和 `iptv_merged.list`。上游仓库每天更新：gary 约在北京时间 08:46–09:10，Cathy 约在 09:27–09:54，10 点运行能确保两份上游都已更新完成。
