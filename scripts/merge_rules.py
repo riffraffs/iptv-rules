@@ -13,6 +13,9 @@ SOURCES = [
 OUT_CLASH = "iptv_merged.yaml"
 OUT_LIST = "iptv_merged.list"
 IP_TYPES = {"IP-CIDR", "IP-CIDR6", "IP-ASN", "SRC-IP-CIDR"}
+# CIDR rules that resolve domains by default; tag them no-resolve so they only
+# match plain-IP connections and never trigger a DNS lookup.
+NO_RESOLVE_TYPES = {"IP-CIDR", "IP-CIDR6"}
 
 
 def fetch(url: str) -> str:
@@ -47,6 +50,8 @@ def main() -> None:
                 continue
             seen.add(key)
             kind = item.split(",", 1)[0].strip().upper()
+            if kind in NO_RESOLVE_TYPES and "no-resolve" not in item.lower():
+                item = f"{item},no-resolve"
             (ips if kind in IP_TYPES else domains).append(item)
     domains.sort(key=str.lower)
     ips.sort(key=str.lower)
