@@ -152,6 +152,7 @@ payload:
   - DOMAIN-SUFFIX,d3f4oii5n0oeqi.cloudfront.net
   - DOMAIN-SUFFIX,d3hqevbyoxtkoi.cloudfront.net
   - DOMAIN-SUFFIX,d3j50s1rkjmwi9.cloudfront.net
+  - DOMAIN-SUFFIX,d3j8ognbtkmgpl.cloudfront.net
   - DOMAIN-SUFFIX,d3o593mz1glx8d.cloudfront.net
   - DOMAIN-SUFFIX,d3pnbvng3bx2nj.cloudfront.net
   - DOMAIN-SUFFIX,d3pxo1qcgzxtxs.cloudfront.net
@@ -401,6 +402,7 @@ payload:
   - IP-CIDR,5.182.228.11/32,no-resolve
   - IP-CIDR,5.182.228.115/32,no-resolve
   - IP-CIDR,5.182.228.131/32,no-resolve
+  - IP-CIDR,5.182.228.139/32,no-resolve
   - IP-CIDR,5.182.228.147/32,no-resolve
   - IP-CIDR,5.182.228.163/32,no-resolve
   - IP-CIDR,5.182.228.171/32,no-resolve
@@ -409,11 +411,13 @@ payload:
   - IP-CIDR,5.182.228.211/32,no-resolve
   - IP-CIDR,5.182.228.219/32,no-resolve
   - IP-CIDR,5.182.228.227/32,no-resolve
+  - IP-CIDR,5.182.228.243/32,no-resolve
   - IP-CIDR,5.182.228.251/32,no-resolve
   - IP-CIDR,5.182.228.35/32,no-resolve
   - IP-CIDR,5.182.228.43/32,no-resolve
   - IP-CIDR,5.182.228.59/32,no-resolve
   - IP-CIDR,5.182.228.67/32,no-resolve
+  - IP-CIDR,5.182.228.76/32,no-resolve
   - IP-CIDR,5.182.229.27/32,no-resolve
   - IP-CIDR,5.182.229.3/32,no-resolve
   - IP-CIDR,5.182.231.61/32,no-resolve
@@ -442,6 +446,7 @@ payload:
   - IP-CIDR,77.72.23.234/32,no-resolve
   - IP-CIDR,77.72.23.242/32,no-resolve
   - IP-CIDR,77.72.23.250/32,no-resolve
+  - IP-CIDR,77.72.23.4/32,no-resolve
   - IP-CIDR,77.72.23.43/32,no-resolve
   - IP-CIDR,79.127.223.35/32,no-resolve
   - IP-CIDR,79.127.243.231/32,no-resolve
@@ -469,6 +474,7 @@ payload:
   - IP-CIDR,92.119.88.156/32,no-resolve
   - IP-CIDR,92.119.88.203/32,no-resolve
   - IP-CIDR,92.119.88.251/32,no-resolve
+  - IP-CIDR,92.119.88.91/32,no-resolve
   - IP-CIDR,92.119.88.99/32,no-resolve
   - IP-CIDR,92.119.89.139/32,no-resolve
   - IP-CIDR,92.119.89.147/32,no-resolve
